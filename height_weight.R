@@ -1,4 +1,5 @@
 library(rethinking)
+library(dplyr)
 data("Howell1")
 dat <- Howell1
 
